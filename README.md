@@ -1,5 +1,5 @@
 ### 📡 websocket
-A simple project demonstrating real-time web communication between a server and clients using WebSockets, built with Node.js, Express, and likely Socket.IO. This repository offers both server-side and client-side code for experimenting with real-time messaging.
+A project demonstrating real-time web communication between a server and clients using WebSockets, built with Node.js, Express, and likely Socket.IO. This repository offers both server-side and client-side code for experimenting with real-time messaging.
 
 ####🚀 Features
 1- Real-time bidirectional communication
